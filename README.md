@@ -68,5 +68,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 🔥 **Star this repository** if you find it useful! 🚀  
 ```
-
-This version makes it more **structured, readable, and professional** with **icons, sections, and proper markdown formatting**. Let me know if you need any more changes! 🚀
