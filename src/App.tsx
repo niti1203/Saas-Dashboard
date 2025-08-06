@@ -14,7 +14,7 @@ import NotFound from "./pages/NotFound";
 
 const queryClient = new QueryClient();
 
-const App = () => (
+const InsightCraftApp  = () => (
   <QueryClientProvider client={queryClient}>
     <TooltipProvider>
       <Toaster />
@@ -35,4 +35,4 @@ const App = () => (
   </QueryClientProvider>
 );
 
-export default App;
+export default InsightCraftApp;
