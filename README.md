@@ -62,7 +62,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## 📬 Contact  
 🔗 GitHub: [niti1203](https://github.com/niti1203)  
-✉️ Email: goniti12@gmail.com  
+✉️ Email: nitiwork90@gmail.com
 
 ---
 
